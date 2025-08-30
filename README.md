@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sarosh</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | Blockchain Learner</h3>
+<h3 align="center">Full Stack Developer | MERN Stack </h3>
 
 ---
 
 ### 👨‍💻 About Me
 - 🎓 Final Year Student at Galgotias University  
 - 💻 Full Stack Developer (MERN + Java + DevOps)  
-- 🚀 Currently learning **Blockchain Development**  
+- 🚀 Currently learning **Gentic AI , ML**  
 - ✨ Building projects around **Pop Culture & Interactive Platforms**  
 
 ---
