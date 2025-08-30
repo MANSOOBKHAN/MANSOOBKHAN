@@ -42,5 +42,14 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-0A0FFF?style=for-the-badge&logo=azuredevops&logoColor=white)
 
+
 ---
+
+## 🎶 Now Playing  
+
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31v2ck2p5ocdt7bnf75l5vhtwsxi)
+
+---
+## ✨ Quote of the Day  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
