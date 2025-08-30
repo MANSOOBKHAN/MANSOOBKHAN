@@ -27,8 +27,8 @@
 
 ---
 
-### 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/MANSOOBKHAN/MANSOOBKHAN/output/github-contribution-grid-snake-dark.svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;Love+to+Build+Cool+Projects)](https://git.io/typing-svg)
+
 
 ---
 
