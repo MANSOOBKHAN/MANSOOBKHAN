@@ -43,6 +43,3 @@
 
 ---
 
-### 🚀 Featured Projects
-- [🌐 Pop Culture Website](https://github.com/MANSOOBKHAN/pop-culture)  
-- [💬]()
